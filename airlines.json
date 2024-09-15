@@ -170,7 +170,7 @@
   {
     "id": "6D",
     "lcc": "0",
-    "name": "Pelita",
+    "name": "Pelita Air",
     "logo": "https://images.kiwi.com/airlines/64/6D.png"
   },
   {
@@ -7353,6 +7353,24 @@
     "id": "IU",
     "lcc": "0",
     "name": "Super Air Jet",
+    "logo": "https://images.kiwi.com/airlines/64/RS.png"
+  },
+  {
+    "id": "TNU",
+    "lcc": "0",
+    "name": "TransNusa",
+    "logo": "https://images.kiwi.com/airlines/64/RS.png"
+  },
+  {
+    "id": "AFE",
+    "lcc": "0",
+    "name": "Airfast Indonesia",
+    "logo": "https://images.kiwi.com/airlines/64/RS.png"
+  },
+  {
+    "id": "TFS",
+    "lcc": "0",
+    "name": "Trigana Air Service",
     "logo": "https://images.kiwi.com/airlines/64/RS.png"
   }
 ]
