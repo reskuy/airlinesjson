@@ -7348,5 +7348,11 @@
     "lcc": "0",
     "name": "Air Seoul",
     "logo": "https://images.kiwi.com/airlines/64/RS.png"
+  },
+  {
+    "id": "IU",
+    "lcc": "0",
+    "name": "Super Air Jet",
+    "logo": "https://images.kiwi.com/airlines/64/RS.png"
   }
 ]
